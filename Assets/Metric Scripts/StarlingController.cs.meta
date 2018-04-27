@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c7a1bba020e13c4487edabcda0ffe78
+timeCreated: 1524148125
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - starlingPrefab: {fileID: 1116031415529388, guid: 92b2c7a6e744e8940b178838f4429744,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
